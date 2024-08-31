@@ -11,6 +11,4 @@ function addAndSubtract(num1, num2, num3) {
     }
     console.log(subtract(a, b, c));
 }
-addAndSubtract(23,
-    6,
-    10);
+addAndSubtract(23,6,10);
